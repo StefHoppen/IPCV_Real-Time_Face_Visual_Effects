@@ -1,0 +1,3 @@
+- The repository has ony one script 'main.py', this script will run the visual effects on the webcam feed.
+- The 'classifier files' folder contains the parameters of the models used for face and landmark detection.
+- The 'filter_overlays' folder contains the PNG image files used as overlays.
